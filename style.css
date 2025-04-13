@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  img.profile {
+    width: 180px;
+    border-radius: 50%;
+  }
+  
+  .work-img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  section {
+    padding: 40px 0;
+  }
+  
+  .work-sample {
+    margin-bottom: 40px;
+  }
+  
+  nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  footer a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+  
